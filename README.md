@@ -1,4 +1,6 @@
 # My-Todos-App
 A todos website created with Spring Boot 2.0 and Angular 7.
 
-<a href="My-Todos-App/screeshots/Screen Shot 2019-02-13 at 12.35.44 AM.png"></a>
+<img src="https://github.com/RaynerMDZ/CodingAllDay/blob/master/Screenshots/Screen%20Shot%202019-01-11%20at%202.37.00%20PM.png" height="100%" width="100%"
+     alt="Todo's app"
+     style="float: center; margin-right: 10px; " />
